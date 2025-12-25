@@ -45,7 +45,6 @@ This system allows users to send messages through a frontend form and securely s
 
 ````
 
----
 
 ## 🔧 Installation & Setup
 
@@ -66,7 +65,6 @@ This system allows users to send messages through a frontend form and securely s
    npm run dev
    ```
 
----
 
 ##  API Endpoint
 
@@ -84,7 +82,6 @@ Accepts JSON data:
 
 Stores data in MongoDB and returns success response.
 
----
 
 ## Sample Response
 
@@ -124,7 +121,6 @@ This project uses **Next.js App Router** to handle both frontend and backend in 
 Built with patience, learning, and faith.
 This project marks a personal comeback into consistency and development.
 
----
 
 **Inshallah, more to come **
 
